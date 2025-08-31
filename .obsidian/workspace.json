@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4ecbf1a1d8189bdf",
+        "id": "50a8f03dbc446b57",
         "type": "tabs",
         "children": [
           {
-            "id": "f37dc8a2d2b22b13",
+            "id": "f62c1e5226eb33ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Actividad 4/08-Warmed up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "08-Warmed up"
             }
           },
           {
-            "id": "dbdffe477bd6e530",
+            "id": "f57ff7721fdad17d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Lets Warm Up.md",
+                "file": "Actividad 4/10-plumbing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Lets Warm Up"
-            }
-          },
-          {
-            "id": "962fe6590c965ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "10-plumbing"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +184,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "962fe6590c965ef0",
+  "active": "f57ff7721fdad17d",
   "lastOpenFiles": [
-    "01-Lets Warm Up.md",
+    "Plantilla.md",
+    "Actividad 4/10-plumbing.md",
+    "Actividad 4/08-Warmed up.md",
+    "Actividad 4/05-Glitch Cat.md",
+    "Actividad 4/04-First Grep.md",
+    "Actividad 4/03-Bases.md",
+    "Actividad 4/02_2Warm.md",
+    "Actividad 4/06-Nice netcat....md",
+    "Actividad 4/01-Lets Warm Up.md",
     "README.md",
-    "Plantilla.md"
+    "Sin nombre",
+    "Actividad 4/07-Obedient Cat.md",
+    "Actividad 4/09-what's a net cat.md",
+    "Actividad 4",
+    "02_",
+    "Sin título.base",
+    "Sin título.canvas"
   ]
 }
