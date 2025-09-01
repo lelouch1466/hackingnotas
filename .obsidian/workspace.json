@@ -34,9 +34,149 @@
               "icon": "lucide-file",
               "title": "10-plumbing"
             }
+          },
+          {
+            "id": "144aa7295ad81994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_5/01-Big zip.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Big zip"
+            }
+          },
+          {
+            "id": "25f23477c4e09be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_5/02-First Find.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-First Find"
+            }
+          },
+          {
+            "id": "5cd6ffbb693b3549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_5/03-Magikarp Ground Mission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-Magikarp Ground Mission"
+            }
+          },
+          {
+            "id": "4cbe0ad663e96e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_5/04-Repetitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-Repetitions"
+            }
+          },
+          {
+            "id": "fd975588676fb49e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_5/05-Static ain't always noise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05-Static ain't always noise"
+            }
+          },
+          {
+            "id": "14b303e125674285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_5/06-strings it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-strings it"
+            }
+          },
+          {
+            "id": "a3f300af0c7c0017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_5/07-Tab, Tab, Attack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07-Tab, Tab, Attack"
+            }
+          },
+          {
+            "id": "1bc34084f0563f29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_5/08-Wave a flag.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08-Wave a flag"
+            }
+          },
+          {
+            "id": "114bc05f1756f350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_5/09-Based.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-Based"
+            }
+          },
+          {
+            "id": "de26d6eeda7e624f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_5/10-useless.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10-useless"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -184,21 +324,32 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f57ff7721fdad17d",
+  "active": "de26d6eeda7e624f",
   "lastOpenFiles": [
     "Plantilla.md",
-    "Actividad 4/10-plumbing.md",
-    "Actividad 4/08-Warmed up.md",
+    "Actividad_5/10-useless.md",
+    "Actividad 4/09-what's a net cat.md",
+    "Actividad 4/07-Obedient Cat.md",
+    "Actividad 4/06-Nice netcat....md",
     "Actividad 4/05-Glitch Cat.md",
+    "Actividad_5/09-Based.md",
+    "Actividad_5/08-Wave a flag.md",
+    "Actividad_5/07-Tab, Tab, Attack.md",
+    "Actividad_5/06-strings it.md",
+    "Actividad_5/05-Static ain't always noise.md",
+    "Actividad_5/04-Repetitions.md",
+    "Actividad_5/03-Magikarp Ground Mission.md",
+    "Actividad_5/02-First Find.md",
+    "Actividad_5/01-Big zip.md",
+    "Sin nombre",
+    "README.md",
+    "Actividad 4/10-plumbing.md",
+    "Actividad_5",
+    "Actividad 4/08-Warmed up.md",
     "Actividad 4/04-First Grep.md",
     "Actividad 4/03-Bases.md",
     "Actividad 4/02_2Warm.md",
-    "Actividad 4/06-Nice netcat....md",
     "Actividad 4/01-Lets Warm Up.md",
-    "README.md",
-    "Sin nombre",
-    "Actividad 4/07-Obedient Cat.md",
-    "Actividad 4/09-what's a net cat.md",
     "Actividad 4",
     "02_",
     "Sin título.base",
