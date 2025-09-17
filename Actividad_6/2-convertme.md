@@ -9,6 +9,7 @@ Run the Python script and convert the given number from decimal to binary to get
 - Como vi en el desafio codebook, lo corro usando `python3 convertme.py`
 - me pregunta un numero en base decimal y que se lo tradusca a base binario, usando cybershef convierto el numero y me regresa mi bandera: **picoCTF{4ll_y0ur_b4535_9c3b7d4d}**
 
+- Se podia modificar el codigo con un nano para que me de la bandera sin responder ninguna pregunta
 ## Notas
 - Tambien intente usar un strings sobre el archivo y veo que esta la bandera codificada en hex en el codigo, pero al tratar de decodificarla desde fuera de la aplicacion solo me dio caracteres random
 

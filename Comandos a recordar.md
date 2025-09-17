@@ -19,3 +19,9 @@ git status -> ver si todo esta bien
 git commit -m"[comentario]" ->cerrar el commit
 
 git push ->subir el commit
+
+para convertir a binario en python:
+>python
+>>byn([numero])
+>
+>>chr(0x[numero])
