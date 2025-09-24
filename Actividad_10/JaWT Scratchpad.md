@@ -9,6 +9,9 @@ Check the admin scratchpad! `https://jupiter.challenges.picoctf.org/problem/630
 - si intentamos entrar con admin nos rechaza, asi que entramos con el nombre de juan
 - se genera un token con jwt que se guarda en las cookies
 - guardamos el token encriptado y lo ponemos en un debugger para que nos de las 3 partes del jwt![[Pasted image 20250924114627.png]]
+
+  <img width="1604" height="764" alt="Pasted image 20250924114627" src="https://github.com/user-attachments/assets/e26e9c7e-ceff-4fbe-b156-4cba0b24ae26" />
+
 - al tratar de cambiar el usuario de juan a admin en la parte derecha nos cambia el ecriptado pero al tratar de usarlo en la pagina esto no funciona; esto porque no la firma de verificacion no es correcta
 - para poder encontrar la forma usare kali que tiene los comandos necesarios para esto
 - dentro de kali voy hasta `/usr/share/wordlists/rockyou.txt.gz` que es una lista de las palabras mas usadas para encryptar, pero para usarla primero tengo que hacer esto: `gizip -d /usr/share/wordlists/rockyou.txt.gz`
