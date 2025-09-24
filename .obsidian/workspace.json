@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Scavenger Hunt"
             }
+          },
+          {
+            "id": "fa48a7963080ea76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actividad_10/More SQLi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "More SQLi"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,14 +184,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "7d2cb80bf908cfd3",
+  "active": "fa48a7963080ea76",
   "lastOpenFiles": [
+    "Actividad_10/Plantilla 1.md",
+    "Actividad_10/More SQLi.md",
+    "Actividad_10/JaWT Scratchpad.md",
+    "Actividad_10/Irish-Name-Repo 1.md",
+    "Comandos a recordar.md",
+    "Imagenes/Pasted image 20250924121133.png",
+    "Imagenes/Pasted image 20250924114627.png",
+    "Imagenes/Pasted image 20250906203823.png",
+    "Actividad_10/Sin título.md",
+    "Acttividad_9/Scavenger Hunt.md",
+    "Actividad_10",
     "Acttividad_9/GET aHEAD.md",
     "Acttividad_9/Cookies.md",
-    "Acttividad_9/Scavenger Hunt.md",
     "Acttividad_9/Plantilla 1.md",
     "Plantilla.md",
-    "Comandos a recordar.md",
     "Acttividad_9",
     "Actividad_8/06-Insp3ct0r.md",
     "Actividad_8/Plantilla 1.md",
@@ -193,13 +217,6 @@
     "Actividad_6/3-Fixme1.md",
     "Actividad_6/4-Fixme2.md",
     "Actividad_6/5-PW Crack 1.md",
-    "Actividad_6/1-Codebook.md",
-    "Actividad_6/6-PW Crack 2.md",
-    "Actividad_6/7-runme.md",
-    "Actividad_6/8-Super ssh.md",
-    "Actividad_6/9-PW Crack 3.md",
-    "Tarea_1/1-Binary Search.md",
-    "Imagenes/Pasted image 20250906203823.png",
     "Imagenes",
     "Tarea_1",
     "Actividad_6",

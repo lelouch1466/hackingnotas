@@ -25,3 +25,7 @@ para convertir a binario en python:
 >>byn([numero])
 >
 >>chr(0x[numero])
+
+------
+En kali:
+`john [archivo.txt] -w=/usr/share/wordlists/rockyou.txt` -> encontrar la frima de verificacion de un encriptado
