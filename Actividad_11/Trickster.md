@@ -14,12 +14,14 @@ Trickster
 - sabiendo esto podemos subir un archivo disfrazandolo como png
 - Creo un archivo php usando `nano simple.php` y dentro copio un webshell(link en referencias)
 - Dentro del archivo pongo en la primera linea 'PNG' y me queda algo asi:
-![[Pasted image 20250929140341.png]]
+<img width="436" height="204" alt="image" src="https://github.com/user-attachments/assets/d071fa91-612d-4cf4-8100-f11b6b86bbef" />
+
 - Tambien cambio el nombre del archivo para que contenga la extencion .png pero siga siendo .php usando `mv simple.php simple.png.php`
 - Ahora trato de subirlo a la pagina y me sale que fue exitoso
 - ahora para abrirlo desde la web se guarda en `[link_de_pagina]/uploads/[nombre_archivo]` 
 - una vez que abro la pagina me sale esto:
-![[Pasted image 20250929140856.png]]
+<img width="862" height="130" alt="image" src="https://github.com/user-attachments/assets/2f2e8b9a-b14a-40df-8c30-b66605fef198" />
+
 - esto funciona como un webshell y puedo poner comandos
 - si uso ls solo me sale el archivo que subi
 - uso `find -name *.txt` para encontrar los txt que haya en la pagina y encuentro uno raro con puras letras mayusculas
