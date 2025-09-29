@@ -31,6 +31,7 @@ pip3 install flask-unsign
 ### No se porque nomas me funciono una vez pero la bandera no sirvio y ya no volvio a servir
 
 <img width="1047" height="589" alt="image" src="https://github.com/user-attachments/assets/f07d5ff1-218b-4517-8062-016569e29ef8" />
+
 ## Correcion
 - al aplicar `flask-unsign --sign --cookie "{'very_auth': 'admin'}" --secret '[palabra secreta]'` estaba poniendo tambien la cookie copiada, y solo tenia que dar enter para que generara la cookie de admin
 - Al aplicar el curl estaba usando el link copiado del discord, pero necesitaba copiar el que tenia en mi propio navegador
