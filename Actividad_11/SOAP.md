@@ -25,7 +25,8 @@ Additional details will be available after launching your challenge instance.
 ```
 
 - al enviarlo al servidor me regresa la respuesta donde encuentro la bandera:**picoCTF{XML_3xtern@l_3nt1t1ty_4dbeb2ed}**
-![[Screenshot_2025-09-29_16_22_19.png]]
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/87077e01-dcc8-4b14-9122-ecab737d4177" />
+
 ## Notas
 - la verdad que no entendi que estamos haciendo en este desafio
 
