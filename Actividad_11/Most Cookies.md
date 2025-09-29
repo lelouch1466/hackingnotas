@@ -32,6 +32,7 @@ pip3 install flask-unsign
 
 ### **No se porque nomas me funciono 1 vez pero la bandera no sirvio y ya no volvio a servir**
 
-![[Pasted image 20250929150335.png]]
+<img width="1047" height="589" alt="image" src="https://github.com/user-attachments/assets/f07d5ff1-218b-4517-8062-016569e29ef8" />
+
 ## Referencias
 [PicoCTF 2021 — Most Cookies - Private User HQ - Medium](https://medium.com/private-user-hq/picoctf-2021-most-cookies-7f3d8b6cd0b)
