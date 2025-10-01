@@ -29,3 +29,13 @@ para convertir a binario en python:
 ------
 En kali:
 `john [archivo.txt] -w=/usr/share/wordlists/rockyou.txt` -> encontrar la frima de verificacion de un encriptado
+
+tar -xvzf [numbre_arch].tar.gz -> descomprimir un tar.gz
+
+cargo build -> compilar un rust, algo asi como 'javac', se hace desde la carpeta principal
+
+cargo run -> correr un rust
+
+mousepad [archivo] -> editor de texto
+
+exiftool -> ver metadatos
