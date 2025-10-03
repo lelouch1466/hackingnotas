@@ -16,3 +16,4 @@ There's something in the [building](https://jupiter.challenges.picoctf.org/stat
 ## Referencias
 [picoCTF 2021 writeup [18] - Forensic - What Lies Within - YouTube](https://www.youtube.com/watch?v=bFUB-USG3sw&list=PLDo9DMLZyP6kTZ8Td37-LdbAx4-yNfHBl&index=18)
 [What is Steganography? A Complete Guide with Types & Examples](https://www.simplilearn.com/what-is-steganography-article)
+[Steganography Online](https://stylesuxx.github.io/steganography/)
