@@ -14,6 +14,5 @@ Additional details will be available after launching your challenge instance.
 - al inspeccionar la pagina vi esto `<section class="about" notify_true="cGljb0NURnt3ZWJfc3VjYzNzc2Z1bGx5X2QzYzBkZWRfZjZmNmI3OGF9">`
 - se ve como un codificado en base64, al ponerlo en cybershef me regreso la bandera **picoCTF{web_succ3ssfully_d3c0ded_f6f6b78a}**
 ## Notas
-- chatgpt si me ayudo mucho a entender que estaba pasando pero nunca me dio una respuesta directa
 
 ## Referencias
