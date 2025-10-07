@@ -39,3 +39,9 @@ cargo run -> correr un rust
 mousepad [archivo] -> editor de texto
 
 exiftool -> ver metadatos
+
+`ls -s archivo_org nombre_accesp `-> acceso directo a un archivo
+
+hexeditor -> editor de hex
+
+xxd [archivo] | header -> ver los primeros bits magicos
