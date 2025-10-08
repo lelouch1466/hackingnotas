@@ -20,6 +20,10 @@ git commit -m"[comentario]" ->cerrar el commit
 
 git push ->subir el commit
 
+git restore --staged [/carpeta o archivo] -> que no se suba algo en el commit(aplicar despues del git add .)
+
+git commit --amend -m "comentario" -> reescribir el comentario del ultimo commit hecho
+
 para convertir a binario en python:
 >python
 >>byn([numero])

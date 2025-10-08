@@ -27,3 +27,6 @@ Check the admin scratchpad! `https://jupiter.challenges.picoctf.org/problem/630
 ## Referencias
 [JSON Web Token Introduction - jwt.io](https://www.jwt.io/introduction#what-is-json-web-token-structure)
 [JWT Debugger - jwt.lannysport.net](https://jwt.lannysport.net/)
+
+
+
