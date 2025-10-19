@@ -44,8 +44,7 @@ shell at 0x126a92d0
 ```
 - como estan guardados en el heap significa que es posible un **heap overflow**, dicho de una forma, ambos estan en una memoria que va en linea y tienen asignado un espacio especifico dentro de esa lina
 - pero si una varible se pasa de su espacio delimitado en la linea es posible que se atraviese a otra variable
-  ![[Pasted image 20251004023029.png]]
-
+![imagen de flujo](../Imagenes/Pasted%20image%2020251004023029.png)
 
 - Como nos dan en que paerte de la memoria estan podemos hacer un calculo de hex y vemos que estan a 48 bytes de distancia
 - entonces cuando nos pregunte por username pondremos cualquier cosa de 48 caracteres y en el 49 pondremos un comando:
