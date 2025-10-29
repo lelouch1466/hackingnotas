@@ -49,3 +49,7 @@ exiftool -> ver metadatos
 hexeditor -> editor de hex
 
 xxd [archivo] | header -> ver los primeros bits magicos
+
+zteg - ver datos ocultos en un PNG
+
+steghide - ver datos ocultos en JPG
