@@ -11,17 +11,44 @@
             "id": "4931b30625a0355f",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagenes/Pasted image 20251103144041.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251103144041"
+            }
+          },
+          {
+            "id": "fba035c58edf2689",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad_19/ReadMyCert.md",
+                "file": "Picomini2025/Crack the Power.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReadMyCert"
+              "title": "Crack the Power"
+            }
+          },
+          {
+            "id": "b7d1035f7827a67c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarea_4/EVEN RSA CAN BE BROKEN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EVEN RSA CAN BE BROKEN"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,54 +196,54 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4931b30625a0355f",
+  "active": "b7d1035f7827a67c",
   "lastOpenFiles": [
+    "Tarea_4/Crack the power.md",
+    "Tarea_4/EVEN RSA CAN BE BROKEN.md",
+    "README.md",
+    "Picomini2025/Crack the Power.md",
+    "Tarea_4/substitution0.md",
+    "Tarea_4/substitution2.md",
+    "Imagenes/Pasted image 20251103153436.png",
+    "Tarea_4/Vigenere.md",
+    "Tarea_4/substitution1.md",
+    "Tarea_4/rail-fence.md",
+    "Tarea_4/morse-code.md",
+    "Tarea_4/credstuff.md",
+    "Actividad_16/waves over lambda.md",
+    "Actividad_16/The numbers.md",
+    "Actividad_16/Tapping.md",
+    "Actividad_16/la cifra de.md",
+    "Actividad_16/interencdec.md",
+    "Actividad_16/Easy1.md",
+    "Actividad_16/caesar.md",
+    "Imagenes/Pasted image 20251103140312.png",
+    "Imagenes/Pasted image 20251103144041.png",
+    "Actividad_16/13.md",
+    "Actividad_18/Mind your Ps and Qs.md",
+    "Actividad_19/ReadMyCert.md",
     "Actividad_19/Pixelated.md",
     "Actividad_19/HideToSee.md",
     "Actividad_19/Flags.md",
     "Actividad_19/basic-mod1.md",
-    "yolo/PIE TIME 2.md",
-    "yolo/Plantilla 1.md",
-    "Actividad_19/ReadMyCert.md",
+    "Actividad_6/2-convertme.md",
+    "Tarea_4",
+    "Imagenes/Pasted image 20251029225604.png",
+    "Imagenes/Pasted image 20251029224411.png",
+    "Imagenes/Pasted image 20251029224121.png",
+    "Imagenes/Pasted image 20251029223808.png",
+    "Imagenes/Pasted image 20251029222121.png",
     "Imagenes/Pasted image 20251029154942.png",
     "Imagenes/combined_image.png",
-    "Comandos a recordar.md",
-    "Actividad_13/WhitePages.md",
-    "Actividad_13/shark on wire 2.md",
-    "Actividad_13/m00nwalk.md",
-    "Actividad_13/like1000.md",
-    "Actividad_13/c0rrupt.md",
-    "Actividad_12/extensions.md",
-    "Actividad_12/What Lies Within.md",
-    "Actividad_12/So Meta.md",
-    "Actividad_12/shark on wire 1.md",
-    "Actividad_12/Glory of the Garden.md",
-    "Actividad_16/caesar.md",
-    "Actividad_16/Easy1.md",
-    "Actividad_16/interencdec.md",
-    "Actividad_16/la cifra de.md",
-    "Actividad_16/Tapping.md",
-    "Actividad_16/The numbers.md",
-    "Actividad_14/WebNet1.md",
-    "Actividad_14/WebNet0.md",
-    "Imagenes/Pasted image 20251029145118.png",
     "Actividad_19",
     "Actividad_18",
-    "Imagenes/two_primes.png",
-    "Imagenes/RSA1.png",
-    "Imagenes/RSA3.png",
-    "Imagenes/RSA2.png",
-    "Imagenes/RSA4.png",
     "Actividad_17",
-    "yolo",
+    "Desafios_extra",
     "Tarea_3",
-    "Imagenes/Screenshot_2025-10-02_03_58_05copy.png",
     "Actividad_16",
-    "Imagenes/Screenshot_2025-10-08_18_11_14 2.png",
     "Actividad_15",
     "Actividad_14",
     "Parcial_1_part_2",
-    "Actividad_13",
     "Sin título.canvas"
   ]
 }
