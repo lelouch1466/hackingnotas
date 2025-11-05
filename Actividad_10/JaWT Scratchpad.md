@@ -8,7 +8,8 @@ Check the admin scratchpad! `https://jupiter.challenges.picoctf.org/problem/630
 - al entrar a la pagina nos dice que entremos con cualquier nombre excepto admin
 - si intentamos entrar con admin nos rechaza, asi que entramos con el nombre de juan
 - se genera un token con jwt que se guarda en las cookies
-- guardamos el token encriptado y lo ponemos en un debugger para que nos de las 3 partes del jwt![[Pasted image 20250924114627.png]]
+- guardamos el token encriptado y lo ponemos en un debugger para que nos de las 3 partes del jwt
+![](../Imagenes/Pasted%20image%2020250924114627.png)
 
   <img width="1604" height="764" alt="Pasted image 20250924114627" src="https://github.com/user-attachments/assets/e26e9c7e-ceff-4fbe-b156-4cba0b24ae26" />
 

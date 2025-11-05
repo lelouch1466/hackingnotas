@@ -57,7 +57,7 @@ X-Forwarded-For: $127.0.0.1$
 ```
 - y ahora solo me da "success: false" en mis ataques
 - en cierto request veo que paso el ataque y obtengo la bandera: **picoCTF{xff_byp4ss_brut3_3477bf15}**
-![[Screenshot_2025-10-08_18_11_14 2.png]]
+![](../Imagenes/Screenshot_2025-10-08_18_11_14%202.png)
 
 ## Notas
 - batalle mucho al principio porque no sabia si estaba poniendo bien el add en burpsuite y no sabia como darle payload diferente a cada set

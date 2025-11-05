@@ -14,7 +14,7 @@ base64 -d logs.txt > decoded.bin
 - siendo bin cualquier tipo de archivo pero sin especificar
 - le hago un `file decoded.bin` y me dice que es un PNG
 - le cambio la extencion con `mv decoded.bin decoded.png` y lo abro para ver una imagen:
-![[decoded.png]]
+![](../Imagenes/decoded.png)
 - veo que abajo en la imagen hay numeros y letras, entonces los copio para obtener esto:
 ```
 7069636F4354467B666F72656E736963735F616E616C797369735F69735F616D617A696E675F61633165333538347D

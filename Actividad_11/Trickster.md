@@ -29,7 +29,6 @@ Trickster
 
 ## Notas
 - me perdi al tratar de seguir la soluncion en clase porque no entendi donde se guardaba lo subido
-- 
 
 ## Referencias
 [picoCTF 2024: Trickster. Tags: Web Exploration… | by Altair | Medium](https://medium.com/@niceselol/picoctf-2024-trickster-af90f7476e18)

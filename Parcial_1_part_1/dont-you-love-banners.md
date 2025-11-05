@@ -70,7 +70,7 @@ KeyboardInterrupt
 ln -s /root/flag.txt banner
 ```
 - ahora salgo de la conexion y vuelvo a entrar y ahora en ves de decir "welcome" me da la bandera: **picoCTF{b4nn3r_gr4bb1n9_su((3sfu11y_68ca8b23}**
-![[Pasted image 20251005165722.png]]
+![](../Imagenes/Pasted%20image%2020251005165722.png)
 
 
 ## Notas

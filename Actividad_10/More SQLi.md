@@ -13,7 +13,6 @@ Can you find the flag on this website.Try to find the flag [here](http://saturn
 - revisando el acordeon de inyecciones proporcionados ahora uso una inyeccion para ver los nombres de todas las tablas con: 
   `' union select 1,2,tbl_name FROM sqlite_master WHERE type='table' ;`  
 - y para revisar sus estructuras ahora uso: `ciudad' union select 1,sql,tbl_name FROM sqlite_master WHERE type='table' ;`
-  ![[Pasted image 20250924121133.png]]
 <img width="824" height="722" alt="Pasted image 20250924121133" src="https://github.com/user-attachments/assets/f32969e9-5ded-4d5e-8a77-92e8fea4d627" />
 
   

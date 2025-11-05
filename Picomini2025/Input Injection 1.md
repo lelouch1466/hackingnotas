@@ -54,14 +54,14 @@ void fun(char *name, char *cmd) {
 - mas importante, esta pasando name, un char[200] a un char[10] por lo que puede ocacionar un overflow
 - un overflow manda los caracteres que sobran a la siguiente variable disponible cambiando totalmente la variable incluso si ya tiene valor definido en el codigo
 - sabiendo esto pondre un nombre de 10 caracteres y despues pondre un comando que sobreescriba "uname"
-![[Pasted image 20251002233745.png]]
+![](../Imagenes/Pasted%20image%2020251002233745.png)
 - podemos ver que dejo de decir linux e imprimio mi echo
 - ahora solo hago un ls que me muestra la flag.txt y lo abro con un cat para obtener la bandera: **picoCTF{0v3rfl0w_c0mm4nd_22530a1b}**
-![[Pasted image 20251002235926.png]]
+![](../Imagenes/Pasted%20image%2020251002235926.png)
 
 
 ## Notas
 
 - chatgpt si me ayudo mucho a entender que estaba pasando pero nunca me dio una respuesta directa
 ## Referencias
-![[Pasted image 20251002233745.png]]
+![](mambo_enojada.png)

@@ -18,3 +18,4 @@ A company stored a secret message on a server which got breached due to the admi
 ## Notas
 
 ## Referencias
+[Hash decoder and calculator (hash and unhash)](https://md5hashing.net/hash)

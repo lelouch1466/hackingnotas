@@ -22,7 +22,7 @@ NOTE: Jack - temporary bypass: use header "X-Dev-Access: yes"
 - parece que jack dejo un backdoor modificando el header
 - usando foxyproxy y burpsuite atrapamos esta conexion y la enviamos a repeater
 - modificamos el header para agregar la linea: `X-Dev-Access: yes` y al enviarla la respuesta nos regresa la bandera:
-![[Screenshot_2025-10-02_03_58_05copy 1.png]]
+![](../Imagenes/Screenshot_2025-10-02_03_58_05.png)
 
 ## Notas
 

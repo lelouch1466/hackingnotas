@@ -32,6 +32,5 @@ icat  -o 360448 -r disk.flag.img 2371
 ## Notas
 
 ## Referencias
-<img src="http://amiable-citadel.picoctf.net:60547/images/simple-php%20.png" alt="The image “http://amiable-citadel.picoctf.net:60547/images/simple-php%20.png” cannot be displayed because it contains errors.">
 
 AddType application/x-httpd-php .png
