@@ -64,4 +64,3 @@ void fun(char *name, char *cmd) {
 
 - chatgpt si me ayudo mucho a entender que estaba pasando pero nunca me dio una respuesta directa
 ## Referencias
-![](mambo_enojada.png)
