@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad_20/vault-door-4.md",
+                "file": "Actividad_21/timer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault-door-4"
+              "title": "timer"
             }
           }
         ]
@@ -171,8 +171,27 @@
   },
   "active": "b7d1035f7827a67c",
   "lastOpenFiles": [
+    "Actividad_21/Safe Opener 2.md",
+    "Actividad_21/Safe Opener.md",
+    "Actividad_21/Picker IV.md",
+    "Actividad_21/Picker III.md",
+    "Actividad_21/Picker II.md",
+    "Actividad_21/Picker I.md",
+    "Imagenes/Pasted image 20251111055302.png",
+    "Actividad_21/timer.md",
+    "Imagenes/timer.png",
+    "Picomini2025/M1n10n'5_53cr37.md",
+    "Imagenes/Pasted image 20251111053237.png",
+    "Actividad_5/06-strings it.md",
+    "Comandos a recordar.md",
+    "Imagenes/Pasted image 20251111050453.png",
+    "Imagenes/Pasted image 20251111050034.png",
+    "Desafios_extra/PIE TIME.md",
+    "Desafios_extra/PIE TIME 2.md",
+    "Actividad_21/Picker II 1.md",
     "Plantilla.md",
     "Actividad_20/vault-door-4.md",
+    "Actividad_21",
     "Actividad_20/vault-door-5.md",
     "Actividad_20/vault-door-3.md",
     "Actividad_20/vault-door-1.md",
@@ -184,30 +203,11 @@
     "Parcial_1_part_2/SSTI1.md",
     "Parcial_1_part_2/SQL Direct.md",
     "Parcial_1_part_2/Java Code Analysis.md",
-    "Parcial_1_part_2/findme.md",
-    "Parcial_1_part_2/Cookie Monster Secret Recipe.md",
-    "Parcial_1_part_2/Bookmarklet.md",
-    "Parcial_1_part_1/Specialer.md",
-    "Parcial_1_part_1/SansAlpha.md",
-    "Parcial_1_part_1/Rust fixme 1.md",
-    "Parcial_1_part_1/Python Wrangling.md",
-    "Parcial_1_part_1/HashingJobApp.md",
-    "Parcial_1_part_1/flag_shop.md",
-    "Parcial_1_part_1/FANTASY CTF.md",
-    "Parcial_1_part_1/dont-you-love-banners.md",
-    "Actividad_16/interencdec.md",
-    "Actividad_16/Easy1.md",
-    "Actividad_16/caesar.md",
     "Imagenes/Pasted image 20250924114627.png",
     "Imagenes/Screenshot_2025-10-08_18_11_14 2.png",
     "Imagenes/Pasted image 20250929140341.png",
     "Imagenes/Pasted image 20251029145118.png",
     "Imagenes/Pasted image 20251029224411.png",
-    "Imagenes/Pasted image 20250929150335.png",
-    "Imagenes/Pasted image 20250929140856.png",
-    "Imagenes/Pasted image 20250924121133.png",
-    "Imagenes/Pasted image 20250906203823.png",
-    "Imagenes/mambo_enojada.png",
     "Tarea_4",
     "Actividad_19",
     "Actividad_18",
@@ -216,7 +216,6 @@
     "Tarea_3",
     "Actividad_16",
     "Actividad_15",
-    "Actividad_14",
     "Sin título.canvas"
   ]
 }
